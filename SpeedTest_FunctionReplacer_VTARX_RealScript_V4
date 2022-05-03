@@ -1,0 +1,5 @@
+local function SpeedTest_FunctionReplacer_VTARX_RealScript_V4()
+	local SpeedText = Instance.new('LocalScript', game.StarterGui)
+	SpeedText.Name ="SpeedTestV4"
+end
+coroutine.wrap(SpeedTest_FunctionReplacer_VTARX_RealScript_V4)()
